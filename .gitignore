@@ -6,6 +6,12 @@
 *.lo
 *.o
 *.obj
+C++Files/Main/x64/
+C++Files/x64/
+*.tlog
+*.idb
+*.pdb
+*.lastbuildstate
 
 # Precompiled Headers
 *.gch
@@ -32,3 +38,10 @@
 *.app
 *.vsidx
 /C++Files/.vs
+/C++Files/Debug
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.log
+*.recipe
+*.ilk
