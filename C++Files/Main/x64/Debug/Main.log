@@ -1,0 +1,67 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(376,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(405,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(461,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(507,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(580,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsString.h(597,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsDate.h(148,7): warning C4101: 'Hourse': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsDate.h(149,10): warning C4101: 'Seconds': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsDate.h(148,15): warning C4101: 'Minutes': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(216,23): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(33,16):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(216,23): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(30,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(43,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(44,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(45,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(429,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsDepositScreen.h(70,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsWithdrawScreen.h(71,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsUser.h(312,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\Main\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Main.vcxproj -> C:\Users\Mohammed\Desktop\MyCode-VS\C++Files\x64\Debug\C++Files.exe
